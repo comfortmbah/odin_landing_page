@@ -1,1 +1,1 @@
-# odin_landing_page
+Building Landing page with HTML and CSS fundamentals
