@@ -10,3 +10,12 @@ body {
     font-family: Roboto, sans-serif;
     min-height: 100vh;
 }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1f2937;
+    padding: 0 100px;
+}
+
+
