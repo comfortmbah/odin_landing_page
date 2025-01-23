@@ -29,5 +29,8 @@ h2 {
     color: #f9faf8;
 }
 
-
+p.header-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
 
