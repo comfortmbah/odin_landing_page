@@ -79,4 +79,21 @@ nav {
     justify-content: center;
 }
 
+.first-section-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+    gap: 40px;
+    text-align: center;
+}
+
+.card {
+    width: 150px;
+}
+
+.card img {
+    border-radius: 6px;
+}
+
+
 
