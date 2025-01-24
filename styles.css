@@ -44,3 +44,20 @@ p.header-text {
     font-size: 14px;
 }
 
+nav ul {
+    display: flex;
+    gap: 18px;
+    justify-content: flex-end;
+}
+
+nav li {
+    list-style: none;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+
