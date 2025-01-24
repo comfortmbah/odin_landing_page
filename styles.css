@@ -34,3 +34,13 @@ p.header-text {
     color: #e5e7eb;
 }
 
+.btn1 {
+    color: #f9faf8;
+    background-color: #3882f6;
+    border: none;
+    border-radius: 6px;
+    padding: 8px 20px;
+    font-weight: 600;
+    font-size: 14px;
+}
+
