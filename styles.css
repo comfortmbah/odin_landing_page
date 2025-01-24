@@ -95,5 +95,48 @@ nav {
     border-radius: 6px;
 }
 
+.second-section {
+    background-color: #e5e7eb;
+    padding: 100px 250px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: light italic;
+    color: #1f2937;
+}
+
+.quote-name {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+
+.third-section {
+    margin: 90px 180px;
+}
+
+.third-section > div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882f6;
+    padding: 50px 0;
+    border-radius: 8px;
+    line-height: 1.3;
+}
+
+.third-section .text1 {
+    font-weight: 600;
+    color: #f9faf8;
+    font-size: 1.4rem;
+}
+
+.third-section .text2 {
+    color: #e5e7eb;
+    font-size: 1rem;
+}
 
 
