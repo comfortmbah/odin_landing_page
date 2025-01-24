@@ -42,6 +42,7 @@ p.header-text {
     padding: 8px 20px;
     font-weight: 600;
     font-size: 14px;
+    margin-top: 30px;
 }
 
 nav ul {
@@ -63,6 +64,10 @@ nav a {
 h1,
 nav {
     margin-bottom: 80px;
+}
+
+.header-left-bottom {
+    margin-right: 55px;
 }
 
 
